@@ -67,6 +67,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [@orochiwolf]
+Said MOUHOUN - [@orochiwolf]
 Project Link: [https://github.com/orochiwolf/siem-anomaly-detection](https://github.com/orochiwolf/siem-anomaly-detection)
 
