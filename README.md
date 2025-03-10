@@ -41,7 +41,7 @@ python siem-anomaly-detection.py
 
 ## Project Structure
 
-siem-anomaly-detection/
+siem-anomaly-detection
 ├── siem-anomaly-detection.py # Main application file
 ├── requirements.txt # Python dependencies
 ├── .gitignore # Git ignore rules
